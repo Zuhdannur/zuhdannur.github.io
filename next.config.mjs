@@ -11,7 +11,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  ssetPrefix: isProd ? '/zuhdannur.github.io/' : '',
+  ssetPrefix: isProd ? '/zuhdannur.github.io' : '',
   basePath: isProd ? '/zuhdannur.github.io' : '',
   output: 'export'
 }

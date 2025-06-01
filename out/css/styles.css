@@ -1,9 +1,0 @@
-@font-face {
-    font-family: oswald;
-    src: url('../assets/font/Oswald-Regular.ttf');
-}
-
-.color-primary { background-color: #0061A8 !important; }
-.color-primary-second {background-color: #2978B5; }
-a.navbar-brand i { color: white; } 
-.myTitle { font-family: 'oswald', Courier, monospace; color: #FBE0C4;}
